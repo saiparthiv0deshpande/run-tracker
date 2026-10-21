@@ -1,0 +1,14 @@
+{
+  "name": "Stride Run Tracker",
+  "short_name": "Stride",
+  "description": "A simple, focused running tracker.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f5f1",
+  "theme_color": "#17231f",
+  "icons": [
+    { "src": "/icons/stride.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
